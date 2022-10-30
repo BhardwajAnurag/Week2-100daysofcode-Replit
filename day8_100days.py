@@ -15,3 +15,9 @@ if name == "Mark" or name == "mark":
     print("Well come back on Monday")
 else:
   print(f"I just don't like you {name}, Goodbye!")
+print()
+next = input("For day9-day14, please tell which day's command you wish to run:")
+if next == "day9":
+  import day9_100days
+else:
+  print("Invalid choice")

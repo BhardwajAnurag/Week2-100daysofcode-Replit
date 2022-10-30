@@ -1,2 +1,3 @@
 # week2_100daysofcode_replit
-Day8: Created an affirmations (or insults) generator<br/> 
+Day8: Created a Project#6 affirmations (or insults) generator<br/> 
+Day9: Project#7 Generation Identifier using comparison >=, <=<br/>
